@@ -1,3 +1,8 @@
+## Загальна інформація
+
+* Візуалізації результатів зберігаються у директорії `plots`.
+* Числові результати експериментів зберігаються у директорії `results` у форматі CSV.
+
 ## Запуск прогону експериментів (PowerShell)
 
 ```powershell
@@ -16,3 +21,4 @@ python rabotaem.py
 ```powershell
 python rabotaem.py --save-examples --overwrite-visuals
 ```
+
